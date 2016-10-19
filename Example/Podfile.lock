@@ -1,7 +1,5 @@
 PODS:
-  - PopupDialog (0.4.0):
-    - TZStackView
-  - TZStackView (1.2.0)
+  - PopupDialog (0.4.0)
 
 DEPENDENCIES:
   - PopupDialog (from `../`)
@@ -11,9 +9,8 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  PopupDialog: 5f87c0c97af1cf5f2eee6e5a83421c3fc0d22fb5
-  TZStackView: 4b82373b4aabe4d99adf739a34e1bc6755149272
+  PopupDialog: beb23c0225b289a8796143e3f87f2c184f214bd2
 
-PODFILE CHECKSUM: 44a37416621721e2a0c584fbddcd9bf60098c3a6
+PODFILE CHECKSUM: 6a28fea69505a531c5f71a12df2f74b4946730f7
 
 COCOAPODS: 1.1.0.rc.3
